@@ -27,7 +27,7 @@ You can download datasets such as C4 and OpenGen from [here](https://drive.googl
 
 You can implement our watermark embedding and extraction process by following these steps:
 
-0. Modify the `mode` parameter in the `run.sh` file to specify whether to embed a watermark (`train`) or extract it (`test`).
+0. Modify the `mode` in `run.sh` to specify whether to embed a watermark (`train`) or extract it (`test`).
 
 1. Customize the watermark by adjusting various hyperparameters in the `run.sh` file:
    - `watermark_type`: Specifies the type of semantic watermark to use (`S`, `H`, `I`, or `P`).
