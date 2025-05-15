@@ -1,0 +1,19 @@
+{
+    "algorithm_name": "UniGumbel",
+    "gamma": 0.25,
+    "delta": 4.0,
+    "hash_key": 0,
+    "z_threshold": 4.0,
+
+    "prefix_length": 2,
+    "eps": 1e-20,
+    "threshold": 1e-4,
+    "sequence_length": 200,
+    "temperature": 0.7,
+    "seed": 42,
+
+    "token_entropy_threshold": 3,
+    "semantic_entropy_threshold": 1.5,
+    "k_means_top_k": 64,
+    "k_means_n_clusters": 10
+}

@@ -1,0 +1,22 @@
+{
+    "algorithm_name": "KgwGumbel",
+    "gamma": 0.5,
+    "delta": 2.0,
+    "hash_key": 15485863,
+    "kgw_prefix_length": 1,
+    "z_threshold": 4.0,
+    "f_scheme": "time",
+    "window_scheme": "left",
+
+    "exp_gumbel_prefix_length": 2,
+    "eps": 1e-20,
+    "threshold": 1e-4,
+    "sequence_length": 200,
+    "temperature": 0.7,
+    "seed": 42,
+
+    "token_entropy_threshold": 2,
+    "semantic_entropy_threshold": 1,
+    "k_means_top_k": 64,
+    "k_means_n_clusters": 10
+}

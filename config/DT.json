@@ -1,0 +1,16 @@
+{
+    "c4_max_new_tokens": 200,
+    "c4_min_new_tokens": 200,
+    "opengen_max_new_tokens": 200,
+    "opengen_min_new_tokens": 200,
+    "t1_max_new_tokens": 16,
+    "t1_min_new_tokens": 16,
+    "t2_max_new_tokens": 300,
+    "t2_min_new_tokens": 200,
+    "t3_max_new_tokens": 64,
+    "t3_min_new_tokens": 32,
+    "t4_max_new_tokens": 512,
+    "t4_min_new_tokens": 256,
+    "t5_max_new_tokens": 100,
+    "t5_min_new_tokens": 100
+}

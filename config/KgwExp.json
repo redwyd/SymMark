@@ -1,0 +1,21 @@
+{
+    "algorithm_name": "KgwExp",
+    "gamma": 0.25,
+    "delta": 4.0,
+    "kgw_hash_key": 15485863,
+    "kgw_prefix_length": 1,
+    "z_threshold": 4.0,
+    "f_scheme": "additive",
+    "window_scheme": "left",
+
+    "exp_prefix_length": 4,
+    "exp_hash_key": 15485863,
+    "threshold": 1e-4,
+    "sequence_length": 200,
+    "top_k": 0,
+
+    "token_entropy_threshold": 3,
+    "semantic_entropy_threshold": 1.5,
+    "k_means_top_k": 64,
+    "k_means_n_clusters": 10
+}

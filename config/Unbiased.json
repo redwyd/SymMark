@@ -1,0 +1,9 @@
+{
+    "algorithm_name": "Unbiased",
+    "gamma": 0.5,
+    "key": 42,
+    "prefix_length": 5,
+    "z_threshold": 1.513,
+    "ignore_history_generation": 0,
+    "ignore_history_detection": 0
+}

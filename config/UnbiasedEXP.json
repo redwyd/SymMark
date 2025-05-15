@@ -1,0 +1,18 @@
+{
+    "algorithm_name": "UnbiasedEXP",
+    "unbiased_gamma": 0.5,
+    "unbiased_key": 42,
+    "unbiased_prefix_length": 5,
+    "unbiased_z_threshold": 1.513,
+    "unbiased_ignore_history_generation": 0,
+    "unbiased_ignore_history_detection": 0,
+
+    "exp_prefix_length": 4,
+    "exp_hash_key": 15485863,
+    "exp_threshold": 1e-4,
+    "exp_sequence_length": 200,
+    "exp_top_k": 0,
+
+    "token_entropy_threshold": 2,
+    "semantic_entropy_threshold": 1
+}
