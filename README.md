@@ -1,8 +1,8 @@
-# <img src="/Users/xiaohong/Documents/Github/SymMark/img/logo.png" alt="logo" style="zoom:7%;" />From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models
+# <img src="./img/logo.png" alt="logo" style="zoom:7%;" />From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models
 
 > This repository contains the official code implementation of our paper: [![arXiv: paper](https://img.shields.io/badge/arXiv-paper-red.svg)](https://arxiv.org/abs/xxx)
 
-![SymMark](/Users/xiaohong/Documents/Github/SymMark/img/SymMark.png)
+![SymMark](./SymMark/img/SymMark.png)
 
 ## Setup
 
